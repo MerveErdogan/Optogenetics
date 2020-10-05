@@ -1,4 +1,4 @@
-# Optogenetics
+# Optogenetics / Animal Study
 
 2 analysis codes:
 
