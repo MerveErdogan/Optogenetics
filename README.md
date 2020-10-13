@@ -5,4 +5,4 @@
 - Pilot study (both FIPI & reproduction analysis)
 - Real Study (only reproduction analysis)
 
-Both are lever press studies
+Both are lever press studies that are conducted in the skinner boxes.
